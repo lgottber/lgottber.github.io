@@ -8,7 +8,6 @@
 })('9cc10e9d-ab4c-48a4-7561-57cd8c3d836b');
 */
 
-<script>
 (function(apiKey){
     (function(p,e,n,d,o){var v,w,x,y,z;o=p[d]=p[d]||{};o._q=[];
     v=['initialize','identify','updateOptions','pageLoad'];for(w=0,x=v.length;w<x;++w)(function(m){
@@ -16,4 +15,3 @@
         y=e.createElement(n);y.async=!0;y.src='https://pendo-dev-static.storage.googleapis.com/agent/static/'+apiKey+'/pendo.js';
         z=e.getElementsByTagName(n)[0];z.parentNode.insertBefore(y,z);})(window,document,'script','pendo');
 })('86ace1c4-8ede-40dc-59b2-07af61ee0e4a');
-</script>
