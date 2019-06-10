@@ -24,8 +24,8 @@ function login(userInfo = {}) {
         },
 
         account: {
-            id:           department, // Highly recommended
-            name:         department
+            id:           'ACCOUNT-UNIQUE-ID', // Highly recommended
+            name:         'ACCOUNT-UNIQUE-ID'
             // name:         // Optional
             // planLevel:    // Optional
             // planPrice:    // Optional
